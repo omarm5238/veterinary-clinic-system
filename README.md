@@ -89,6 +89,3 @@ flutter run -d chrome
 ## Author
 
 Omar Mohamed Hassan Farag AKL
-=======
-# veterinary-clinic-system
->>>>>>> 397b70944e22221a2f165e8f63ad95fc4a5a2b00
