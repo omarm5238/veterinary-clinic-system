@@ -82,7 +82,7 @@ flutter run -d chrome
 
 ## Live Demo
 
-(Will be added after deployment)
+(https://vet-clinic-system-9dcc8.web.app)
 
 ---
 
